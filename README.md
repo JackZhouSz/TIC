@@ -42,10 +42,14 @@ Implementation of our SIGGRAPH 2025 paper "Transformer IMU Calibrator: Dynamic O
 [eval.py](./eval.py): Run our dynamic calibration on dataset and calculate OME, AME and R_G'G/R_BS Error.
 
 ## Synthesized Dataset for training
-1. Download required training data at https://pan.baidu.com/s/1UmFCHvt3pqIYixuuCqBqWg?pwd=nmyr.
-2. Copy all data in folder: [root/data_train]
 
-*Note: We expand synthesized head IMU acc data with 14 different vertices on head mesh (head_acc.pt), thus covering acc variances on different IMU location when rotating head.
+Coming Soon
+[//]: # (1. Download required training data at xxxx.)
+
+[//]: # (2. Copy all data in folder: [root/data_train])
+
+[//]: # ()
+[//]: # (*Note: We expand synthesized head IMU acc data with 14 different vertices on head mesh &#40;head_acc.pt&#41;, thus covering acc variances on different IMU location when rotating head.)
 
 
 ## TIC Dataset
