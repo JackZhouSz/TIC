@@ -43,7 +43,8 @@ Implementation of our SIGGRAPH 2025 paper "Transformer IMU Calibrator: Dynamic O
 
 ## Synthesized Dataset for training
 
-Coming Soon
+Coming Soon.
+
 [//]: # (1. Download required training data at xxxx.)
 
 [//]: # (2. Copy all data in folder: [root/data_train])
