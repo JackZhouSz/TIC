@@ -75,6 +75,7 @@ For each subject, the dataset provides:
 Some of our codes are adapted from [PIP](https://github.com/Xinyu-Yi/PIP).
 The SMPL_MALE model is download from https://smpl.is.tue.mpg.de/.
 
-## Citation
+[//]: # (## Citation)
 
-If you find this project helpful, please consider citing us:
+[//]: # ()
+[//]: # (If you find this project helpful, please consider citing us:)
