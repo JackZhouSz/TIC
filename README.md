@@ -27,8 +27,10 @@
 </div>
 
 <h4 align="center">
-<a href="https://arxiv.org/abs/2312.02196" target='_blank'>[Paper]</a> •
-<a href="https://www.youtube.com/watch?v=88_CyBNtEe8&t=168s" target='_blank'>[Demo]</a>
+
+[//]: # (<a href="https://arxiv.org/abs/2312.02196" target='_blank'>[Paper]</a> •)
+
+[//]: # (<a href="https://www.youtube.com/watch?v=88_CyBNtEe8&t=168s" target='_blank'>[Demo]</a>)
   
 </h4>
 
