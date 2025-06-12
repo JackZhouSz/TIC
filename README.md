@@ -23,14 +23,14 @@
 </div>
 
 <div>
-    <strong>Accepted to SIGGRAPH 2025</strong>
+    <strong>🏆 SIGGRAPH 2025 Best Paper</strong>
 </div>
 
 <h4 align="center">
 
 [//]: # (<a href="https://arxiv.org/abs/2312.02196" target='_blank'>[Paper]</a> •)
 
-[//]: # (<a href="https://www.youtube.com/watch?v=88_CyBNtEe8&t=168s" target='_blank'>[Demo]</a>)
+<a href="https://youtu.be/xu2v_yPJoLs" target='_blank'>[Demo]</a>
   
 </h4>
 
