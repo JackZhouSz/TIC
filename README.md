@@ -23,13 +23,14 @@
 </div>
 
 <div>
-    <strong>🏆 SIGGRAPH 2025 Best Paper</strong>
+    <strong>🏆 SIGGRAPH 2025 Best Papers</strong>
 </div>
 
 <h4 align="center">
 
 [//]: # (<a href="https://arxiv.org/abs/2312.02196" target='_blank'>[Paper]</a> •)
 
+<a href="https://arxiv.org/pdf/2506.10580" target='_blank'>[Paper]</a>
 <a href="https://youtu.be/xu2v_yPJoLs" target='_blank'>[Demo]</a>
   
 </h4>
