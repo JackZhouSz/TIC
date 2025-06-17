@@ -31,6 +31,7 @@
 [//]: # (<a href="https://arxiv.org/abs/2312.02196" target='_blank'>[Paper]</a> •)
 
 <a href="https://arxiv.org/pdf/2506.10580" target='_blank'>[Paper]</a>
+<a href="https://youtu.be/ZvsA227c7Ls" target='_blank'>[Fast-Forward Video]</a>
 <a href="https://youtu.be/xu2v_yPJoLs" target='_blank'>[Demo]</a>
   
 </h4>
@@ -46,7 +47,7 @@ Implementation of our SIGGRAPH 2025 paper "Transformer IMU Calibrator: Dynamic O
 
 ## Synthesized Dataset for training
 
-Coming Soon.
+Prepare AMASS and DIP-IMU dataset then run [data_preprocess.py](./data_preprocess.py).
 
 [//]: # (1. Download required training data at xxxx.)
 
