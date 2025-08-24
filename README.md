@@ -9,7 +9,7 @@
     <a target='_blank'>Yuan Yao<sup>1</sup></a>&emsp;
     <a target='_blank'>Xiangren Shi<sup>4</sup></a>&emsp;
     <a target='_blank'>Rui Cao<sup>1</sup></a>&emsp;
-    <a target='_blank'>Yinyu Yi<sup>2</sup></a>&emsp;
+    <a target='_blank'>Xinyu Yi<sup>2</sup></a>&emsp;
     <a target='_blank'>Feng Xu<sup>2</sup></a>&emsp;
     <a target='_blank'>Shihui Guo<sup>1*</sup></a>&emsp;
     <a target='_blank'>Yipeng Qin<sup>3</sup></a>&emsp;
